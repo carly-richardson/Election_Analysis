@@ -38,6 +38,8 @@ The analysis of the election show that:
 
 ![image](https://user-images.githubusercontent.com/100643519/160257729-9731882a-e32e-44ba-b81a-d7198aa8fd28.png)
 
+![image](https://user-images.githubusercontent.com/100643519/160259484-1ec38ef0-0343-4919-aefb-90d26efa4fa7.png)
+
 ## Election-Audit Summary
 
 This script can be used to audit the results of any election as long as you are provided a csv file with the election results. You could modify the script to audit a different congressional election by changing the file and path referenced by the file_to_load variable. You could also modify the script to get the popular vote results of a national election. To audit the results of a national election, you would need to modify the path and file referenced by the file_to_load variable, and modify the county results to count the state results.
