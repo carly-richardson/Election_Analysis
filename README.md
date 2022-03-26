@@ -1,7 +1,7 @@
 # Election_Analysis
 Analyzing election data with Python
 
-## Project Overview
+## Overview of Election Audit
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -13,10 +13,6 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.9.10, Visual Studio Code, 1.65.2
-
-## Overview of Election Audit
-
-
 
 ## Election-Audit Results
 
@@ -43,3 +39,7 @@ The analysis of the election show that:
 ![image](https://user-images.githubusercontent.com/100643519/160257729-9731882a-e32e-44ba-b81a-d7198aa8fd28.png)
 
 ## Election-Audit Summary
+
+This script can be used to audit the results of any election as long as you are provided a csv file with the election results.
+You could modify the script to audit a different congressional election by changing the file and path referenced by the file_to_load variable.
+You could also modify the script to get the popular vote results for a national election. You would need a csv file with the election results. You would need to modify the path and file referenced by the file_to_load variable. You could modify the county results to count state results.
