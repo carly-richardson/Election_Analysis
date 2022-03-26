@@ -40,6 +40,6 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana Degette, who received 73.8% of the vote and 272,892 number of votes.
 
-![image](https://user-images.githubusercontent.com/100643519/160257643-6810bef5-fc0e-4e2c-8854-6ee29ab98aef.png)
+![image](https://user-images.githubusercontent.com/100643519/160257729-9731882a-e32e-44ba-b81a-d7198aa8fd28.png)
 
 ## Election-Audit Summary
